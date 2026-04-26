@@ -34,6 +34,12 @@ ws://localhost:4000
 середній сигнал - помаранчевий;
 сильний сигнал - червоний.
 
+<img width="1890" height="1025" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f84a57e3-e16b-4f0f-8087-7d5cf4b78ef7" />
+
+
+<img width="1888" height="1024" alt="Screenshot_2" src="https://github.com/user-attachments/assets/28277a76-8b65-4b78-a0f9-91518b302d18" />
+
+
 Код:
 
 ```
